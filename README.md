@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm XAVIER</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://share.google/9wrP85o0IF61yMKAc">
+<img align="right" alt="Coding" width="400" src="https://telegra.ph/file/25fe4887479e6acce836e-541d98dcfa7fa65a82.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
